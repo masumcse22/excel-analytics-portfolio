@@ -1,6 +1,6 @@
 # 📊 Excel Sales Dashboard | Evaluating Sales Agent Performance
 
-![Excel Dashboard Screenshot](./images/dashboard-screenshot.png)
+![Excel Dashboard Screenshot]([./images/dashboard-screenshot.png](https://github.com/masumcse22/excel-analytics-portfolio/blob/main/sales-performance-dashboard/EXCEL.png))
 
 Welcome! I'm **Md Masum**, a junior-level **Data Analyst & Business Analyst** passionate about transforming raw data into actionable insights.  
 This project demonstrates my ability to build interactive dashboards in Excel to evaluate sales performance, spot trends, and guide data-driven decisions.
